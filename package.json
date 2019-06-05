@@ -1,0 +1,21 @@
+{
+  "name": "webpackx-config",
+  "version": "0.0.1-alpha.02",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "package.json",
+    "Readme.md"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.4.4",
+    "babel-loader": "^8.0.6",
+    "clean-webpack-plugin": "^2.0.2",
+    "shebang-loader": "0.0.1",
+    "webpack-node-externals": "^1.7.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
